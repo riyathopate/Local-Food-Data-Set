@@ -1130,5 +1130,17 @@
         "rating": "5",
         "image": "https://en.m.wikipedia.org/wiki/File:Kolhapuri_Misal_Pav.jpg",
         "location": "https://www.justdial.com/Solapur/Solapur-Vada-Pav-Near-Sangameswar-College-Solapur-HO/9999PX217-X217-170304171018-J6Q8_BZDET"
+    },
+    {
+        "id": 93,
+        "placeOfOrigin": "India",
+        "region": "Delhi",
+        "city": "Delhi",
+        "food" : "Chola Bhatura",
+        "type": "Lunch and Dinner",
+        "foodEnergy": "427 cal",
+        "rating": "4.5",
+        "image": "https://images.herzindagi.info/image/2020/Oct/chole-bhature-calories-one-plate.jpg",
+        "location": "https://curlytales.com/best-chole-bhature-in-mumbai/"
     }
 ]
